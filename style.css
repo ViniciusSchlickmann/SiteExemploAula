@@ -1,4 +1,7 @@
 body {
     background-color: blue;
-    color: yellow;
+}
+
+article {
+     color: yellow;
 }
